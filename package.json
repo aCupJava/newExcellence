@@ -1,0 +1,30 @@
+{
+  "name": "campus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "webpack-cli": "^3.0.8",
+    "webpack-command": "^0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aCupJava/newExcellence.git"
+  },
+  "keywords": [
+    "LINcoln520"
+  ],
+  "author": "lz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aCupJava/newExcellence/issues"
+  },
+  "homepage": "https://github.com/aCupJava/newExcellence#readme",
+  "description": ""
+}
